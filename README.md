@@ -36,6 +36,7 @@ func main() {
 	v, _ := c.Make("Username", "Hello")
 
 	fmt.Println(v.(string))
+	// Hello Fredrik
 }
 ```
 
